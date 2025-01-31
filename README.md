@@ -1,6 +1,8 @@
 # Netflix
 
-  Este é um projeto do clone da página inicial da Netflix, desenvolvido com <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e <b>React</b>, usando uma <b>API</b> do site TMDB, seguindo um tutorial do programador Clever Programmer, disponível no Youtube.
+  Este é um projeto do clone da página inicial da Netflix, desenvolvido com <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e <b>React</b>, usando uma <b>API</b> do site TMDB, seguindo um tutorial do programador [Clever Programmer](https://www.youtube.com/@CleverProgrammer), disponível no Youtube. 
+<br>
+  Neste site, é possível ver a lista de filmes/séries separadas por temas, e ao clicar em cima de cada pôster, carrega seu respectivo trailer (exceto os filmes/séries mais recentes, que ainda não tem disponível o trailer).
 
 <br>
 
