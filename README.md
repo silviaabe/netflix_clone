@@ -12,8 +12,7 @@ Neste site, é possível ver a lista de filmes/séries separadas por temas, e ao
 
 ## Tecnologias
 
-Runs the app in the development mode.\
-Open [https://localhost:3000](https://localhost:3000) to view it in your browser.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <b>HTML</b> para a estruturação do conteúdo.
 - <b>CSS</b> para estilização visual do site.
