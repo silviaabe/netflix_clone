@@ -24,7 +24,7 @@ Open [https://localhost:3000](https://localhost:3000) to view it in your browser
 
 ## Projeto
 
-🚀 [Acesse o projeto finalizado](https://netflix-clone-nine-eta-43.vercel.app/)
+🚀 [Acesse o projeto finalizado](https://netflix-clone-21s3nsmri-silvia-abes-projects.vercel.app/)
 
 ## Autor
 
